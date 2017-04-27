@@ -1,0 +1,24 @@
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.Canvas.resources
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.MainForm.resources
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.Properties.Resources.resources
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting (SVM).csproj.GenerateResource.Cache
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Handwriting.exe
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Handwriting.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Math.dll
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\ZedGraph.dll
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.dll
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.MachineLearning.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.MachineLearning.xml
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Math.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Math.xml
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Statistics.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.Statistics.xml
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\ZedGraph.xml
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\bin\x86\Debug\Accord.xml
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.exe
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.pdb
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting (SVM).csprojResolveAssemblyReference.cache
+C:\Users\Subrato\Desktop\New folder (7)\Samples\MachineLearning\Handwriting\obj\x86\Debug\Handwriting.UI.resources
